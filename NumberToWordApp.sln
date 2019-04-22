@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWordApp", "NumberToWordApp\NumberToWordApp.csproj", "{303F2473-9F67-4D27-B4B2-956B290FC61C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumToWordFormatProvider", "ConsoleApp1\NumToWordFormatProvider.csproj", "{B8A8623E-87A7-4259-A125-ADC0DA985E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{303F2473-9F67-4D27-B4B2-956B290FC61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303F2473-9F67-4D27-B4B2-956B290FC61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303F2473-9F67-4D27-B4B2-956B290FC61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303F2473-9F67-4D27-B4B2-956B290FC61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A8623E-87A7-4259-A125-ADC0DA985E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A8623E-87A7-4259-A125-ADC0DA985E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A8623E-87A7-4259-A125-ADC0DA985E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A8623E-87A7-4259-A125-ADC0DA985E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04DCF9D5-D8BB-4609-A463-07648007654E}
+	EndGlobalSection
+EndGlobal
